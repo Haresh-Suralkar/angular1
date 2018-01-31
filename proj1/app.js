@@ -1,0 +1,1 @@
+var proj1 = new angular.module('proj1', ["ngRoute"]);
